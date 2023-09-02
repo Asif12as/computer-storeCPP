@@ -42,4 +42,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments
 We would like to thank all contributors and the open-source community for their support and contributions to this project.
 
-Enjoy using the Computer Store Project! If you have any questions, feedback, or issues, please open an issue or reach out to us at your.mda957947@gmail.com.
+Enjoy using the Computer Store Project! If you have any questions, feedback, or issues, please open an issue or reach out to us at mda957947@gmail.com.
