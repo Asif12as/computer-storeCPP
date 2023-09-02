@@ -1,6 +1,5 @@
 # computer-storeCPP
 
-# Computer Store Project
 
 Welcome to the Computer Store Project, a C++ application that simulates a computer store management system. This project allows you to manage computer hardware and software inventory, track customer purchases, and handle administrative tasks efficiently.
 
